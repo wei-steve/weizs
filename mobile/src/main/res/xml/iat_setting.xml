@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <EditTextPreference
+        android:key="iat_vadbos_preference"
+		android:title="前端点超时"
+		android:dialogTitle="请输入时间(0-10000)ms"
+        android:summary="默认值：短信转写5000，其他4000"
+		android:defaultValue="5000" />
+    <EditTextPreference
+        android:key="iat_vadeos_preference"
+		android:title="后端点超时"
+		android:dialogTitle="请输入时间(0-10000)ms"
+        android:summary="默认值：短信转写1800，其他700 "
+		android:defaultValue="1200" />
+    <ListPreference
+        android:key="iat_punc_preference"
+        android:title="标点符号"
+        android:entries="@array/punc_entries"
+        android:entryValues="@array/punc_values"
+        android:summary="默认值：无标点 "
+        android:defaultValue="0"  />
+    <ListPreference
+        android:defaultValue="4"
+        android:entries="@array/stream_entries"
+        android:entryValues="@array/stream_values"
+        android:key="stream_preference"
+        android:title="音频流类型" />
+    <CheckBoxPreference
+        android:key="@string/say_zai"
+        android:title="@string/say_zai_title"
+        android:defaultValue="true" />
+
+    <CheckBoxPreference
+        android:key="@string/iat_off_line_asr_preference"
+        android:title="@string/off_line_asr_preference"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/use_baike"
+        android:title="@string/use_baike_title"
+        android:defaultValue="true" />
+    <CheckBoxPreference
+        android:key="@string/use_calc"
+        android:title="@string/use_calc_title"
+        android:defaultValue="true" />
+    <CheckBoxPreference
+        android:key="@string/use_datetime"
+        android:title="@string/use_datetime_title"
+        android:defaultValue="true" />
+    <CheckBoxPreference
+        android:key="@string/use_translation"
+        android:title="@string/use_translation_title"
+        android:defaultValue="true" />
+    <CheckBoxPreference
+        android:key="@string/use_faq"
+        android:title="@string/use_faq_title"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="@string/use_stock"
+        android:title="@string/use_stock_title"
+        android:defaultValue="true" />
+ 
+
+</PreferenceScreen>
+

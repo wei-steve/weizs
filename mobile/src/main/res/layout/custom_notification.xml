@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="16dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"></LinearLayout>
+
+    <ImageView
+        android:id="@+id/songer_pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="18dp"
+        android:layout_height="503dp"
+        android:layout_gravity="center_vertical"></LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <!--<TextView-->
+            <!--android:id="@+id/goujianyufa"-->
+            <!--android:text="构建语法"-->
+            <!--android:layout_width="173dp"-->
+            <!--android:layout_height="35dp"-->
+            <!--android:textSize="20dp" />-->
+        <!--<android.support.v4.widget.ContentLoadingProgressBar-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="48dp"-->
+            <!--/>-->
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="48dp" />
+        <!--<com.meizu.voiceassistant.ui.DynamicWave-->
+            <!--android:id="@+id/wave"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:layout_width="173dp"-->
+            <!--android:layout_height="35dp" />-->
+        <ImageView
+            android:id="@+id/settingsbnt"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:src="@drawable/vc_settings" />
+    </LinearLayout>
+
+</LinearLayout>

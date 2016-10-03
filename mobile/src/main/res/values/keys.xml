@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="write_permission_desc">create new tasks, edit existing tasks</string>
+    <string name="read_permission_desc">read tasks, display task filters</string>
+</resources>

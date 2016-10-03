@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <TextView
+        android:lineSpacingExtra="2dp"
+        android:padding="10dp"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/tv"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="15dp"
+         />
+
+    <Button
+        android:background="@drawable/roundbtn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:text="读"
+        android:textColor="#ffffff"
+        android:textSize="8dp"
+        android:id="@+id/btn_english"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/tv"
+        android:layout_toEndOf="@+id/tv"
+        android:gravity="center_vertical" />
+
+</RelativeLayout>

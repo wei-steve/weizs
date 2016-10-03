@@ -1,0 +1,61 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.3'
+
+    targetCompatibility = '1.7'
+    sourceCompatibility = '1.7'
+
+    defaultConfig {
+        applicationId "com.meizu.voiceassistant"
+        minSdkVersion 21
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+//    signingConfigs {
+//        release {
+//            keyAlias 'weichangwc'
+//            keyPassword '75321456'
+//            storeFile file('/Users/weichangtan/Dropbox/MyApplication3/Mykey.jks')
+//            storePassword '75321456'
+//        }
+//    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//            signingConfig signingConfigs.release
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+	compile 'com.android.support:support-v4:+'
+    compile 'com.google.android.gms:play-services-auth:+'
+    compile 'com.android.support:design:+'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/Msc.jar')
+    compile('com.google.api-client:google-api-client-android:1.20.0') {
+        exclude group: 'org.apache.httpcomponents'
+    }
+    compile('com.google.apis:google-api-services-tasks:v1-rev41-1.20.0') {
+        exclude group: 'org.apache.httpcomponents'
+    }
+    //    compile 'com.google.android.gms:play-services-wearable:9.+'
+    //    wearApp project(':wear')
+    compile 'com.android.support:design:24.2.0'
+    compile 'com.android.support:appcompat-v7:24.2.0'
+    compile 'com.google.android.gms:play-services-auth:9.4.0'
+    compile 'com.google.android.gms:play-services-identity:9.0.0'
+    //    compile 'pub.devrel:easypermissions:0.1.5'
+    //    compile 'com.android.support:support-v4:24.2.0'
+    //    compile 'com.google.android.gms:play-services-wearable:9.4.0'
+}

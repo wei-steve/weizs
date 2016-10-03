@@ -1,0 +1,75 @@
+#BNF+IAT 1.0 UTF-8;
+!grammar call;
+!slot <contact>;
+!slot <appname>;
+!slot <callPre>;
+!slot <callPhone>;
+!slot <callTo>;
+!slot <timeloca>;
+!slot <nearday>;
+!slot <askweek>;
+!slot <askdate>;
+!slot <NumGe>;
+!slot <NumTen>;
+!slot <NumTenGe>;
+!slot <sjdw>;
+!slot <djsml>;
+!slot <handlemusic>;
+!slot <rmbevery>;
+!slot <rmbyear>;
+!slot <rmbmonth>;
+!slot <rmbday>;
+!slot <quantum>;
+!slot <rmbminute>;
+!slot <rmbword>;
+
+
+!start <Start>;
+<Start>:<start1>|<start2>|<start3>|<start4>|<start5>|<start6>|<start7>|<start8>|<start9>|<start10>|<start11>|<start12>|<start13>|<start14>|<start15>|<start16>;
+
+
+<start1>:([<callPre>][<callTo>]<contact><callPhone>)|([<callPre>]<callPhone>[<callTo>]<contact>);
+<contact>:张海洋;
+<callPre>:我要|我想|我想要;
+<callPhone>:打电话;
+<callTo>:给;
+
+<start2>:<fanyi>;
+<fanyi>:翻译;
+
+<start3>:[<timeloca>][现在](几点|时间)[了|啦|呢][现在];
+<timeloca>:中国|黑龙江|辽宁|吉林|河北|河南|湖北|湖南|山东|山西|陕西|安徽|浙江|江苏|福建|广东|海南|四川|云南|贵州|青海|甘肃|江西|台湾|北京|上海|天津|重庆|内蒙|宁夏|新疆|西藏|广西|香港|澳门|东莞|望牛墩|温哥华|加拿大;
+
+<start4>:[大][大][大][<nearday>]<askweek>[了|啦|呢][现在];
+<nearday>:今天|明天|后天;
+<askweek>:星期几;
+
+<start5>:<askdate>;
+<askdate>:几号;
+
+<start6>:[<NumGe>][<NumTen>][<NumGe>]<sjdw><djsml>;
+
+<sjdw>:秒|秒钟|分钟|小时;
+<djsml>:倒计时;
+
+<start7>:[音乐][歌][曲]<handlemusic>[音乐][歌][曲];
+<handlemusic>:听|播放|播|来点|音乐|暂停|暂停播放|停止播放|音乐停止|停止|安静|别吵|上一首|上一个|下一首|下一个|换;
+
+
+
+
+<NumGe>: 零|一|二|三|四|五|六|七|八|九|两;
+<NumTen>:十;
+<NumTenGe>:一|二;
+
+<start8>:开灯|关灯;
+<start9>:下一个日程;
+<start10>:[打](开|关)[闭]飞行模式;
+<start11>:[打](开|关)[闭]蓝牙;
+<start12>:[看][看][一下]蓝牙[的][状态][现在][已经][([打]开|关[闭])][了][没][([打]开|关[闭])];
+<start13>:[打](开|关)[闭]wifi;
+<start14>:[看][看][一下]wifi[的][状态][现在][已经][([打]开|关[闭])][了][没][([打]开|关[闭])];
+<start15>:[这][是]什么(音乐|歌[曲]);
+<start16>:(打开|启动)<appname>;
+<appname>:微信;
+
