@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e01b212aa314c164a0fe15df160b36f9c228dd81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3f9486a2007830d8a1b470a53e37c52442e0f2d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_354f61ef21ba3a7dbb4c3260214625ef3eb51918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/libs/Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c633a35c296905e39d1231b6d1359ba565c3f904">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/Sunflower_f01cb624acb93835172a4b6ef466fc604d4cf74a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/google-api-client-android-1.20.0_bccd88952f5038936ef91b43b48bbe234cc8dc73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_018ccfc15831707a7a01c24b1988ec06c21642e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_de1e954f68a3668b825df8e794beaa61ab0aba08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_d5592f67e90c5d263f6bceb3d4bf16b191993436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_a94c03a04507377164364c38034118465e03bf0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_7014a88bba2c23587ce763bdd0ff9acbb9e03a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f405bdf8612b46911a9b6171913095000153af1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_4947e6fee8f86eccb337535cc93f98989eb37d79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/google-http-client-1.20.0_4cc794aa46e7cbeaab9775ede88f39a2a167c6ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/libs/Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85a46b29703ef8930a92d2fdea8ff336275c7ab2">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/Msc_300b4cabefbd4d3379e859c1adc1f531d5dc0007.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_f71a521eab90d7973980070a830728f61c3e61c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/jsr305-1.3.9_7c900209f5e9571bf3bb9e59ce27daf102ecea79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.1_68d5372b87f843a33f665d501b24811f92931913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.0.0_b6603635252ed130f9f1432370a09a6b6d52fde2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/guava-jdk5-13.0_298ce242f53ad2f869f89ce2ccd9063b3ca042fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/libs/Time-Nlp.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a63465ec5219bcd48c683f068f64f13a818e2ca7">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/Time-Nlp_68ea27c1c7a911f21719fa82bb946b9a8e5f23e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/google-http-client-android-1.20.0_125a8bcb0a1481e3c6b25b5e190237434386e328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c75de68d8c16e07fdc8fb5ca8483238d4db55975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/google-oauth-client-1.20.0_4852e6621d99cd65737f228f77a4c5ccc45d21d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d82a5fe1b94f0f629a987fdee22a9f1b20e6eab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.1_31b87419650ce0de9a20e3504703d5438469d8d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_501618be4a033b3a711665e6acce58d6a7d23c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_c325ac4c5fb5e3dd33f48f1c7ef53bf4551144b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_322f23e69c5b3eec156c04cae28d7a739019b5de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-tasks/v1-rev41-1.20.0/6a7372f3fd21ecdde1df5b2f8625bad1035cda21/google-api-services-tasks-v1-rev41-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a7372f3fd21ecdde1df5b2f8625bad1035cda21">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/google-api-services-tasks-v1-rev41-1.20.0_f9fcc8721434b56e945ec34c5ff19f4ac9555637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.20.0_f1ce8b5d8315fe3eb7d1114ab209557d2931731b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_327d02cf854a79dabac8ada1f4e9c5a806901375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_5469b9d9f54fe47be0e3823ff831b71b4c735f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/libs/named-regexp-0.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ac0caf7a8f08ee9037ae5f2b0714bf3cdf491fe">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/named-regexp-0.2.4_e042213368e319ce368e14209adc301390d1213d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_9259b968af5cba4e71661a66da91574a76eb45fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/google-api-client-1.20.0_ab2a04741713d1d57eadaeda86e02b8d462f9141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_061069d89094b21e38f1f64d2ea8e3a751fc34f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/weichangtan/Dropbox/MyApplication3/mobile/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ed69ddd59d35f593c225c9e60f5d5b51a1dd9281.jar" />
+    </item>
+
+</items>
